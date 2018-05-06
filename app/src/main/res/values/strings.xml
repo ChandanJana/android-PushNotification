@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushNotificationFirebaseApplication</string>
+    <string-array name="topics">
+        <item>updates</item>
+        <item>notifications</item>
+    </string-array>
+</resources>
